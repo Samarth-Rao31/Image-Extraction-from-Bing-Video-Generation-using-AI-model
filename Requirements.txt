@@ -1,0 +1,11 @@
+streamlit
+bing-image-downloader
+pytesseract
+pillow
+rembg
+paddlepaddle
+paddleocr
+numpy
+tensorflow
+opencv-python
+backgroundremover
